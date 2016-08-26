@@ -1,0 +1,17 @@
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\ProtoType.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\ProtoType.pdb
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\EntityFramework.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\Microsoft.Web.Infrastructure.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Helpers.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Razor.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.Deployment.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.Razor.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\EntityFramework.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Razor.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.Deployment.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Webpages.Razor.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\bin\System.Web.Helpers.xml
+D:\MyCode\VS2012\ProtoType\ProtoType\obj\Debug\ProtoType.dll
+D:\MyCode\VS2012\ProtoType\ProtoType\obj\Debug\ProtoType.pdb
